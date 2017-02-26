@@ -65,9 +65,13 @@ nav ul li a:hover{
 }
 
 nav ul li a.active { 
-			border-bottom: 5px solid #4E0E2E;
-
+			border-bottom: 5px solid #1D215A;
 }
+
+nav ul li a.active:hover{ 
+			border-bottom: 5px solid #4E0E2E;
+}
+
 
 .brand { float: left;
 		width: 20%;
